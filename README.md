@@ -1,2 +1,2 @@
 # Legend
-this is demo 
+this  demo of GitHub sucks
